@@ -44,3 +44,5 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
+### 🎵 Escucha esta canción en Spotify
+[![Escuchar en Spotify](https://img.shields.io/badge/Spotify-Play-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq?si=930b083e8c2d49c9)
