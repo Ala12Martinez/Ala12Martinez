@@ -11,9 +11,6 @@
 📫 &nbsp;Puedes contactarme en: **alanmartinez172004@gmail.com**  
 🌐 &nbsp;También puedes visitar mi [LinkedIn](https://www.linkedin.com/in/alan-uriel-nunez-ab775236a/) o mis proyectos en este perfil.  
 
-
-## 🛠️ My Skills
--------------------
 ## 🚀 Tecnologías y Herramientas
 
 ### 💻 Lenguajes de Programación
