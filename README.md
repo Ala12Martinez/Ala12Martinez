@@ -45,4 +45,4 @@
 
 ---
 ### 🎵 Spotify
-[![▶ Escuchar en Spotify]https://open.spotify.com/playlist/2ZBYmfzsKJH6Wc3hq7kpaQ?si=df96bced418d49a7!]
+[![▶ Escuchar en Spotify]https://open.spotify.com/playlist/2ZBYmfzsKJH6Wc3hq7kpaQ?si=df96bced418d49a7]
