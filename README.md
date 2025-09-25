@@ -45,4 +45,4 @@
 
 ---
 ### 🎵 Spotify
-[![▶ Escuchar en Spotify](https://img.shields.io/badge/▶%20Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq?si=930b083e8c2d49c9)
+[![▶ Escuchar en Spotify]https://open.spotify.com/playlist/2ZBYmfzsKJH6Wc3hq7kpaQ?si=df96bced418d49a7
